@@ -1,0 +1,12 @@
+INSERT INTO EVENT_TYPES(type_code, type_description) VALUES (1, 'Score'),
+                                                            (38, 'Shido'),
+                                                            (99, 'Other'),
+                                                            (39, 'Hansoku-make'),
+                                                            (29, 'Ashi-waza'),
+                                                            (24, 'Kansetsu-waza'),
+                                                            (25, 'Osaekomi-waza'),
+                                                            (31, 'Ma-sutemi-waza'),
+                                                            (33, 'Te-waza'),
+                                                            (35, 'Yoko-sutemi-waza'),
+                                                            (27, 'Shime-waza'),
+                                                            (30, 'Koshi-waza');
